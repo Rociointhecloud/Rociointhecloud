@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/4b6501d2-c7a6-4f08-83d3-91e965bef5ea" 
+    src="https://github.com/user-attachments/assets/61f038aa-b870-4502-9521-01e7d8fd53a1" 
     width="640" 
     alt="Data · Health · Impact — visual identity banner">
 </p>
